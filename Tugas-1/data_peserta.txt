@@ -1,0 +1,6 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama                          : Adnan Abdullah Juan
+2. Email                         : adnanjuan06@gmail.com
+3. Sistem Operasi yang digunakan : Windows
+4. Akun Gitlab/Github            : https://github.com/Djuanzz
+5. Akun Telegram                 : @Djuanzz (Adnan Juan)
