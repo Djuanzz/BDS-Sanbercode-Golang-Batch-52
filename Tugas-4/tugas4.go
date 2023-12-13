@@ -4,6 +4,7 @@ import "fmt"
 
 func main() {
 	// SOAL 1
+	fmt.Println("Soal 1")
 	for i := 1; i <= 20; i++ {
 		if i%3 == 0 && i%2 != 0 {
 			fmt.Println(i, "- I Love Coding")
@@ -16,6 +17,7 @@ func main() {
 	fmt.Println()
 
 	// SOAL 2
+	fmt.Println("Soal 2")
 	for i := 0; i <= 7; i++ {
 		for j := 0; j <= i; j++ {
 			fmt.Print("#")
@@ -25,18 +27,21 @@ func main() {
 	fmt.Println()
 
 	// SOAL 3
+	fmt.Println("Soal 3")
 	var kalimat = [...]string{"aku", "dan", "saya", "sangat", "senang", "belajar", "golang"}
 	kalimatNew := kalimat[2:]
 	fmt.Println(kalimatNew)
 	fmt.Println()
 
 	// SOAL 4
+	fmt.Println("Soal 4")
 	var sayuran = []string{}
 	sayuranNeW := append(sayuran, "Bayam", "Buncis", "Kangkung", "Kubis", "Seledri", "Tauge", "Timun")
 	fmt.Println(sayuranNeW)
 	fmt.Println()
 
 	// SOAL 5
+	fmt.Println("Soal 5")
 	var satuan = map[string]int{
 		"panjang": 7,
 		"lebar":   4,
